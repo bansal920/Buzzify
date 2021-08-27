@@ -1,2 +1,7 @@
-# Buzzzzinga
-Music streaming web app like spotify
+# Buzzify
+## Music streaming web app
+- Discover song/artist
+- Stream music
+- User Account
+- Playlists/Albums
+
