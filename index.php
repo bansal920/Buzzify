@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Buzzzinga</title>
-</head>
-<body>
-Hello
-</body>
-</html>
+<?php 
+include("includes/includedFiles.php"); 
+?>
+
+
+<script>openPage("browse.php")</script>
+
